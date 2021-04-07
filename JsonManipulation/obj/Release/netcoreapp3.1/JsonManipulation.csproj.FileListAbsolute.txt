@@ -1,0 +1,14 @@
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/bin/Release/netcoreapp3.1/JsonManipulation.deps.json
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/bin/Release/netcoreapp3.1/JsonManipulation.runtimeconfig.json
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/bin/Release/netcoreapp3.1/JsonManipulation.runtimeconfig.dev.json
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/bin/Release/netcoreapp3.1/JsonManipulation.dll
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/bin/Release/netcoreapp3.1/JsonManipulation.pdb
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.csprojAssemblyReference.cache
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.AssemblyInfoInputs.cache
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.AssemblyInfo.cs
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.csproj.CoreCompileInputs.cache
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.csproj.CopyComplete
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.dll
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.pdb
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation/obj/Release/netcoreapp3.1/JsonManipulation.genruntimeconfig.cache

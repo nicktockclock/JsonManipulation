@@ -1,0 +1,5 @@
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation.dll
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation.deps.json
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation.runtimeconfig.json
+/Users/nicholasmaslen/Projects/JsonManipulation/JsonManipulation.pdb
+/Users/nicholasmaslen/Projects/JsonManipulation/Newtonsoft.Json.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B04D7A9E-00C2-4AC9-A1E2-C3C9A4D771FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonManipulation/Program.cs">
+    <Files>
+      <File FileName="JsonManipulation/Program.cs" Line="33" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonManipulation" expanded="True">
+            <Node name="JsonManipulation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JsonManipulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
